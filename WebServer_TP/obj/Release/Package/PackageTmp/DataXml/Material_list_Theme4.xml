@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material_list>
+  <material_list material_id="16" material_name="커피콩" material_icon="m_1" material_drop="4" />
+  <material_list material_id="19" material_name="한방재료" material_icon="m_1" material_drop="4" />
+  <material_list material_id="20" material_name="허브" material_icon="m_1" material_drop="4" />
+  <material_list material_id="21" material_name="흑마늘" material_icon="m_1" material_drop="4" />
+  <material_list material_id="23" material_name="플레인" material_icon="m_8" material_drop="4" />
+  <material_list material_id="24" material_name="사과" material_icon="m_1" material_drop="4" />
+</material_list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material_list>
+  <material_list material_id="1" material_name="고급유산균" material_icon="m_1" material_drop="1" />
+  <material_list material_id="2" material_name="다이어트팩" material_icon="m_1" material_drop="1" />
+  <material_list material_id="3" material_name="딸기" material_icon="m_9" material_drop="1" />
+  <material_list material_id="4" material_name="망고" material_icon="m_1" material_drop="1" />
+</material_list>

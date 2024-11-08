@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="item_list.aspx.cs" Inherits="JsWebServer.item_list" %>

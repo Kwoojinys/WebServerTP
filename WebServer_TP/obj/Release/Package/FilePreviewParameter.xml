@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Little_Jumper" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Cp_db_conn-Web.config Connection String" description="" value="Server=localhost,1433;database=CrossPada;User ID=JS_CP_Admin;Password=jsinterval2016!1;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Cp_db_conn']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-JsWebServer-20160805044348.mdf;Initial Catalog=aspnet-JsWebServer-20160805044348;Integrated Security=True;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="Igy_db_conn-Web.config Connection String" description="" value="Server=localhost,1433;database=Igy_db;User ID=IGY_Manager;Password=jsigymanager2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Igy_db_conn']/@connectionString" />
+  </parameter>
+  <parameter name="little_jumper-Web.config Connection String" description="" value="Server=10.33.13.143;Port=3306;Database=little_jumper;UiD=JsWebAdmin;Pwd=Jsweb2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='little_jumper']/@connectionString" />
+  </parameter>
+  <parameter name="little_jumper2-Web.config Connection String" description="" value="Server=169.56.97.92;Port=3306;Database=little_jumper;UiD=root;Pwd=jsinterval2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='little_jumper2']/@connectionString" />
+  </parameter>
+  <parameter name="little_jumper3-Web.config Connection String" description="" value="Server=db-hbbi.cdb.ntruss.com;Port=3306;Database=little_jumper;UiD=JsDBAdmin;Pwd=jsgames2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='little_jumper3']/@connectionString" />
+  </parameter>
+  <parameter name="Rm_db_conn-Web.config Connection String" description="" value="Server=localhost,1433;database=User_dbs;User ID=JS_RM_Admin;Password=jsinterval2016!1;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Rm_db_conn']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CharInven.aspx.cs" Inherits="JsWebServer_CP.Data.Charinven" %>

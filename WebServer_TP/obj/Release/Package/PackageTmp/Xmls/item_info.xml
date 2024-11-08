@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Item_info>
+  <Item_info Item_id="1" Name="test" Prefab_name="test" Type="0" LevLimit="3" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="2" Name="test" Prefab_name="test" Type="0" LevLimit="5" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="3" Name="test" Prefab_name="test" Type="0" LevLimit="7" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="4" Name="test" Prefab_name="test" Type="0" LevLimit="9" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="5" Name="test" Prefab_name="test" Type="0" LevLimit="11" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="6" Name="test" Prefab_name="test" Type="0" LevLimit="13" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="7" Name="test" Prefab_name="test" Type="0" LevLimit="15" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="8" Name="test" Prefab_name="test" Type="0" LevLimit="17" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="9" Name="test" Prefab_name="test" Type="0" LevLimit="19" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="10" Name="test" Prefab_name="test" Type="8" LevLimit="21" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+  <Item_info Item_id="111" Name="test" Prefab_name="test" Type="0" LevLimit="23" Property="1" Prop_value="1" Item_Desc="1" At_sp="1" Mv_sp="1" Ap="1" Def="1" Hp="1" Sp="1" Mp="1" Str="11" Dex="1" Int="1" Con="1" Cri_per="2.00" Price="1000" />
+</Item_info>

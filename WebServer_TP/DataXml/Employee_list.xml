@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee_list>
+  <Employee_list id="0" name="테스트0" description="테스트용직원설명문0" req_gold="100000" req_cash="1000" req_level="1" />
+  <Employee_list id="1" name="테스트1" description="테스트용직원설명문1" req_gold="200000" req_cash="2000" req_level="3" />
+  <Employee_list id="2" name="테스트2" description="테스트용직원설명문2" req_gold="300000" req_cash="3000" req_level="4" />
+  <Employee_list id="3" name="테스트3" description="테스트용직원설명문3" req_gold="450000" req_cash="4500" req_level="7" />
+  <Employee_list id="4" name="테스트4" description="테스트용직원설명문4" req_gold="600000" req_cash="6000" req_level="10" />
+</Employee_list>

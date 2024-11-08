@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-JsWebServer-20160805044348.mdf;Initial Catalog=aspnet-JsWebServer-20160805044348;Integrated Security=True;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="Cp_db_conn-Web.config Connection String" description="Cp_db_conn 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Server=localhost,1433;database=CrossPada;User ID=JS_CP_Admin;Password=jsinterval2016!1;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Cp_db_conn']/@connectionString" />
+  </parameter>
+  <parameter name="Rm_db_conn-Web.config Connection String" description="Rm_db_conn 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Server=localhost,1433;database=User_dbs;User ID=JS_RM_Admin;Password=jsinterval2016!1;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Rm_db_conn']/@connectionString" />
+  </parameter>
+  <parameter name="Igy_db_conn-Web.config Connection String" description="Igy_db_conn 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Server=localhost,1433;database=Igy_db;User ID=IGY_Manager;Password=jsigymanager2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Igy_db_conn']/@connectionString" />
+  </parameter>
+  <parameter name="little_jumper2-Web.config Connection String" description="little_jumper2 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Server=169.56.97.92;Port=3306;Database=little_jumper;UiD=root;Pwd=jsinterval2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='little_jumper2']/@connectionString" />
+  </parameter>
+  <parameter name="little_jumper3-Web.config Connection String" description="little_jumper3 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Server=db-hbbi.cdb.ntruss.com;Port=3306;Database=little_jumper;UiD=JsDBAdmin;Pwd=jsgames2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='little_jumper3']/@connectionString" />
+  </parameter>
+  <parameter name="little_jumper-Web.config Connection String" description="little_jumper 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Server=10.33.13.143;Port=3306;Database=little_jumper;UiD=JsWebAdmin;Pwd=Jsweb2012@;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='little_jumper']/@connectionString" />
+  </parameter>
+  <parameter name="little_jumper_test-Web.config Connection String" description="little_jumper_test 데이터베이스에 액세스하기 위해 응용 프로그램에 의해 web.config에 사용된 연결 문자열입니다." defaultValue="Server=localhost;Port=3306;Database=little_jumper;UiD=JsMainAdmin;Pwd=intervaltest;Persist Security Info=false;Min Pool Size=20;Max Pool Size=100;Connection Timeout=15;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Project\\Web\ Project\\JsWebServer_CP\\JsWebServer_CP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='little_jumper_test']/@connectionString" />
+  </parameter>
+</parameters>

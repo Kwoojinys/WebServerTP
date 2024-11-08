@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material_list>
+  <material_list material_id="12" material_name="우유" material_icon="m_7" material_drop="3" />
+  <material_list material_id="13" material_name="자일리톨" material_icon="m_1" material_drop="3" />
+  <material_list material_id="14" material_name="정제수" material_icon="m_1" material_drop="3" />
+  <material_list material_id="15" material_name="젤라틴" material_icon="m_1" material_drop="3" />
+</material_list>

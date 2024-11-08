@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material_list>
+  <material_list material_id="5" material_name="바나나" material_icon="m_1" material_drop="2" />
+  <material_list material_id="7" material_name="벌꿀" material_icon="m_4" material_drop="2" />
+  <material_list material_id="8" material_name="복숭아" material_icon="m_1" material_drop="2" />
+  <material_list material_id="9" material_name="블루베리" material_icon="m_3" material_drop="2" />
+  <material_list material_id="10" material_name="야채보따리" material_icon="m_1" material_drop="2" />
+  <material_list material_id="11" material_name="얼음" material_icon="m_5" material_drop="2" />
+</material_list>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stage_list>
+  <stage_list id="1" Stage_id="1T1S" Theme_id="1" age="0" gold="1500" exp="150" base_d_count="30" max_d_count="118" min_d_count="20" Req_time="1" Reward_Gold="1000,2000,3000" />
+  <stage_list id="2" Stage_id="1T2S" Theme_id="1" age="0" gold="1500" exp="150" base_d_count="30" max_d_count="118" min_d_count="20" Req_time="1" Reward_Gold="2000,3000,4000" />
+  <stage_list id="3" Stage_id="1T3S" Theme_id="1" age="0" gold="1500" exp="150" base_d_count="30" max_d_count="118" min_d_count="20" Req_time="1" Reward_Gold="3000,4000,5000" />
+  <stage_list id="4" Stage_id="2T1S" Theme_id="2" age="1" gold="3000" exp="300" base_d_count="30" max_d_count="118" min_d_count="25" Req_time="1" Reward_Gold="4000,5000,6000" />
+  <stage_list id="5" Stage_id="2T2S" Theme_id="2" age="1" gold="3000" exp="300" base_d_count="30" max_d_count="118" min_d_count="25" Req_time="1" Reward_Gold="5000,6000,7000" />
+  <stage_list id="6" Stage_id="2T3S" Theme_id="2" age="1" gold="3000" exp="300" base_d_count="30" max_d_count="118" min_d_count="25" Req_time="1" Reward_Gold="6000,7000,8000" />
+  <stage_list id="7" Stage_id="3T1S" Theme_id="3" age="2" gold="4500" exp="450" base_d_count="30" max_d_count="118" min_d_count="30" Req_time="1" Reward_Gold="7000,8000,9000" />
+  <stage_list id="8" Stage_id="3T2S" Theme_id="3" age="2" gold="4500" exp="450" base_d_count="30" max_d_count="118" min_d_count="30" Req_time="1" Reward_Gold="8000,9000,10000" />
+  <stage_list id="9" Stage_id="3T3S" Theme_id="3" age="2" gold="4500" exp="450" base_d_count="30" max_d_count="118" min_d_count="30" Req_time="1" Reward_Gold="9000,10000,11000" />
+  <stage_list id="10" Stage_id="4T1S" Theme_id="4" age="3" gold="6000" exp="450" base_d_count="30" max_d_count="118" min_d_count="35" Req_time="1" Reward_Gold="10000,11000,12000" />
+  <stage_list id="11" Stage_id="4T2S" Theme_id="4" age="3" gold="6000" exp="450" base_d_count="30" max_d_count="118" min_d_count="35" Req_time="1" Reward_Gold="11000,12000,13000" />
+  <stage_list id="12" Stage_id="4T3S" Theme_id="4" age="3" gold="6000" exp="450" base_d_count="30" max_d_count="118" min_d_count="35" Req_time="1" Reward_Gold="12000,13000,14000" />
+</stage_list>

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true"4eBehind="Recommand_Friend.aspx.cs" Inherits="JsWebServer.Recommand_Friend" %>

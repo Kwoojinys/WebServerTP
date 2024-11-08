@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mate_list.aspx.cs" Inherits="JsWebServer.datas.mate_list" %>

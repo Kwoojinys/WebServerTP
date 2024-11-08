@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ljdata.aspx.cs" Inherits="JsWebServer_CP.datas.ljdata" %>
